@@ -31,5 +31,5 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
-![Page loadings](https://komarev.com/ghpvc/?username=moibrahim2021&color=blueviolet&style=flat-square&label=Page+loadings&abbreviated=true)
-[Page loadings](https://komarev.com/ghpvc/?username=moibrahim2021&color=blueviolet&style=flat-square&label=Page+loadings&abbreviated=true)
+![Site loadings](https://komarev.com/ghpvc/?username=moibrahim2021&color=blueviolet&style=flat-square&label=Page+loadings&abbreviated=true)
+[Site loadings](https://komarev.com/ghpvc/?username=moibrahim2021&color=blueviolet&style=flat-square&label=Page+loadings&abbreviated=true)
