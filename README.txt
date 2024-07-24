@@ -1,4 +1,5 @@
 ![Site loadings](https://komarev.com/ghpvc/?username=moibrahim2021&color=blueviolet&style=flat-square&label=Page+loadings&abbreviated=true)
+[Site loadings](https://komarev.com/ghpvc/?username=moibrahim2021&color=blueviolet&style=flat-square&label=Page+loadings&abbreviated=true)
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
@@ -32,5 +33,3 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-
-[Site loadings](https://komarev.com/ghpvc/?username=moibrahim2021&color=blueviolet&style=flat-square&label=Page+loadings&abbreviated=true)
